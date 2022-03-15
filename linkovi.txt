@@ -1,17 +1,15 @@
 Linkovi za seminar
 
 -----Open source općenito linkovi-----
-/* insert here */
 https://www.redhat.com/en/blog/understanding-open-source-governance-models
 https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities
+https://opensource.com/resources/what-open-source
 
 -----Mozilla linkovi-----
-/* insert here */
 https://www.researchgate.net/publication/2541437_Two_Case_Studies_of_Open_Source_Software_Development_Apache_and_Mozilla
 https://www.mozilla.org/en-US/about/governance/roles/
 
 -----Linux linkovi-----
-/* insert here */
 https://wiki.p2pfoundation.net/Linux_-_Governance
 https://flosshub.org/sites/flosshub.org/files/CrowstonHierarchyAndCentralization.pdf
 
