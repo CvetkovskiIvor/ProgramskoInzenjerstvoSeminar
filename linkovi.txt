@@ -1,1 +1,9 @@
-Linkovi za open source
+Linkovi za seminar
+
+-----Open source općenito linkovi-----
+// insert here
+-----Mozilla linkovi-----
+// insert here
+-----Linux linkovi-----
+// insert here
+-----Treci primjer linkovi-----
