@@ -1,9 +1,13 @@
 Linkovi za seminar
 
 -----Open source općenito linkovi-----
-// insert here
+/* insert here */
+
 -----Mozilla linkovi-----
-// insert here
+/* insert here */
+
 -----Linux linkovi-----
-// insert here
+/* insert here */
+
 -----Treci primjer linkovi-----
+/* insert here */
