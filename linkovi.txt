@@ -13,6 +13,7 @@ https://www.mozilla.org/en-US/about/governance/roles/
 -----Linux linkovi-----
 https://wiki.p2pfoundation.net/Linux_-_Governance
 https://flosshub.org/sites/flosshub.org/files/CrowstonHierarchyAndCentralization.pdf
+https://www.redhat.com/sysadmin/life-linux-system-administrator
 
 -----Apache linkovi-----
 https://www.researchgate.net/publication/2541437_Two_Case_Studies_of_Open_Source_Software_Development_Apache_and_Mozilla
