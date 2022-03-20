@@ -13,7 +13,6 @@ https://www.mozilla.org/en-US/about/governance/roles/
 -----Linux linkovi-----
 https://wiki.p2pfoundation.net/Linux_-_Governance
 https://flosshub.org/sites/flosshub.org/files/CrowstonHierarchyAndCentralization.pdf
-https://www.redhat.com/sysadmin/life-linux-system-administrator
 https://www.redhat.com/en/topics/linux/what-is-linux
 https://kernelnewbies.org/FAQ/WhereDoIBegin
 
