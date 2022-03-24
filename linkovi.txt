@@ -12,6 +12,7 @@ https://www.mozilla.org/en-US/about/governance/roles/
 
 -----Linux linkovi-----
 *https://www.redhat.com/en/topics/linux/what-is-linux
+*https://en.wikipedia.org/wiki/History_of_Linux
 https://digital.com/best-website-builders/linux/
 https://wiki.p2pfoundation.net/Linux_-_Governance
 https://flosshub.org/sites/flosshub.org/files/CrowstonHierarchyAndCentralization.pdf
