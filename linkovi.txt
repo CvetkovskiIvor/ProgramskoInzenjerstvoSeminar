@@ -22,7 +22,7 @@ https://www.researchgate.net/publication/2541437_Two_Case_Studies_of_Open_Source
 https://wiki.p2pfoundation.net/Apache_-_Governance
 https://www.apache.org/foundation/governance/
 
------Libre office/ili neki drugi primjer linkovi-----
+-----Libre office i VLC-----
 https://www.libreoffice.org/about-us/who-are-we/
 https://www.libreoffice.org/discover/libreoffice/
 https://oscollege.com/history-of-libreoffice/
