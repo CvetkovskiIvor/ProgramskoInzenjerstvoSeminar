@@ -11,9 +11,12 @@ https://www.researchgate.net/publication/2541437_Two_Case_Studies_of_Open_Source
 https://www.mozilla.org/en-US/about/governance/roles/
 
 -----Linux linkovi-----
-https://www.redhat.com/en/topics/linux/what-is-linux (20.3.2022.)
-https://en.wikipedia.org/wiki/History_of_Linux (24.3.2022.)
-https://matob.web.id/news/history-of-linux/ (27.3.2022.)
+https://www.redhat.com/en/topics/linux/what-is-linux (20.3.2022)
+https://www.suse.com/suse-defines/definition/linux-distribution/ (21.3.2022)
+https://www.linuxfoundation.org/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change/ (24.3.2022)
+https://groups.google.com/g/comp.os.minix/c/dlNtH7RRrGA (24.3.2022)
+https://matob.web.id/news/history-of-linux/ (27.3.2022)
+
 
 -----Apache linkovi-----
 https://www.researchgate.net/publication/2541437_Two_Case_Studies_of_Open_Source_Software_Development_Apache_and_Mozilla
